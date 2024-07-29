@@ -8,15 +8,19 @@
 
 - 🔭 I’m currently working on [a blog](https://polytechinfo.blogspot.com/)
 
-- 🌱 I’m currently learning **Software engineering**
+- 🌱 I’m currently learning **JAVASCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sonu-kumar-15b6b3239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/sonu-kumar-15b6b3239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📝 I regularly write articles on [https://techbannerguide.blogspot.com/](https://techbannerguide.blogspot.com/)
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS AND JAVASCRIPT**
+
+- **i have currently made three projects BMI CALCULATOR, ROCK PAPER SCISSOR GAME AND A PERSONAL PORTFOLIO WEBSITE** and many more in future
 
 - 📫 How to reach me **sonukumar7004913959@gmail.com**
+
+- **Looking for a great and innovative collaboration in a project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
