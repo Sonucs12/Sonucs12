@@ -18,7 +18,8 @@
 
 - **i have currently made three projects BMI CALCULATOR, ROCK PAPER SCISSOR GAME AND A PERSONAL PORTFOLIO WEBSITE** and many more in future
 
-- 📫 How to reach me **sonukumar7004913959@gmail.com**
+- 📫 How to reach me **onlysonuk2@gmail.com**
+- Portfolio **https://sonucs-portfolio.netlify.app/**
 
 - **Looking for a great and innovative collaboration in a project**
 
