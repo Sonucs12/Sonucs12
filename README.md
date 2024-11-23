@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Sonu Prajapati</h1>
+<h1 align="center">Hi 👋, I am Sonu Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);">
 
