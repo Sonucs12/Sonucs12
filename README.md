@@ -1,39 +1,92 @@
-<h1 align="center">Hi 👋, I am Sonu Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding gif" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);">
+<div align="center">
 
-<p align="left"> <img style="border-radius: 50%;"src="https://komarev.com/ghpvc/?username=sonucs12&label=Profile%20views&color=0e75b6&style=flat" alt="sonucs12" /> </p>
+# Hi 👋, I'm Sonu Kumar
 
-<p align="left"> <a href="https://twitter.com/sonu96657119" target="blank"><img src="https://img.shields.io/twitter/follow/sonu96657119?logo=twitter&style=for-the-badge" alt="sonu96657119" /></a> </p>
+### A passionate developer from Bihar, India
 
-- 🔭 I’m currently working on [a blog](https://polytechinfo.blogspot.com/)
+<img src="https://github.com/Sonucs12.png" alt="Sonu Kumar" width="150" height="150" style="border-radius: 50%;" />
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sonu-kumar-15b6b3239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/sonu-kumar-15b6b3239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🚀 About Me
 
-- 📝 I regularly write articles on [https://techbannerguide.blogspot.com/](https://techbannerguide.blogspot.com/)
+A passionate frontend developer dedicated to solving real-world problems with clean, efficient code.
 
-- 💬 Ask me about **HTML, CSS AND JAVASCRIPT**
+## 💼 Current Work
 
-- **i have currently made three projects BMI CALCULATOR, ROCK PAPER SCISSOR GAME AND A PERSONAL PORTFOLIO WEBSITE** and many more in future
+<div align="left">
 
-- 📫 How to reach me **onlysonuk2@gmail.com**
-- Portfolio **https://sonucs-portfolio.netlify.app/**
+- 🔭 I'm currently working on **BrainQuiz**, a quiz taking and creation platform web application: [https://brainquiz.vercel.app/](https://brainquiz.vercel.app/)
 
-- **Looking for a great and innovative collaboration in a project**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sonu96657119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonu96657119" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonu-kumar-15b6b3239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu-kumar-15b6b3239" height="30" width="40" /></a>
-<a href="https://fb.com/sonucse8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonucse8" height="30" width="40" /></a>
-<a href="https://instagram.com/sonu_cs12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonu_cs12" height="30" width="40" /></a>
-</p>
+## 📚 Learning & Knowledge
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonucs12&show_icons=true&locale=en&layout=compact" alt="sonucs12" /></p>
+- 🌱 I'm currently learning **React** and **Next.js** to enhance my skillset.
+- 💬 Ask me about **HTML, CSS, and JavaScript** – I'm always happy to share my knowledge!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonucs12&show_icons=true&locale=en" alt="sonucs12" /></p>
+</div>
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me: **onlysonuk2@gmail.com**
+- 👨‍💻 Portfolio: [https://sonu-portfolio-webdev.vercel.app/](https://sonu-portfolio-webdev.vercel.app/)
+- 📄 Resume: [https://sonu-portfolio-webdev.vercel.app/](https://sonu-portfolio-webdev.vercel.app/)
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonucs12)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Sonu96657119)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu-kumar-15b6b3239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sonu_cs12)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 💻 Frontend Development
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 💻 Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Sonucs12&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sonucs12&theme=dark&column=7&margin-w=15&margin-h=15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonucs12&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonucs12&layout=compact&theme=dark&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sonucs12&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Sonu96657119?style=social)](https://twitter.com/Sonu96657119)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sonucs12&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
